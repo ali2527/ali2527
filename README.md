@@ -37,7 +37,7 @@ const aliHussain = {
 <a title="Github" href="https://github.com/ali2527"><img src="https://img.shields.io/github/followers/ali2527.svg?label=GitHub&style=social" alt="GitHub"></a>
 <a title="LinkedIn" href="https://www.linkedin.com/in/ali2527/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 
-[<img align="left" alt="AliHussain | Instagram" src="[https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white](https://www.instagram.com/ali_talha2527/)" />][instagram]
+
 <br />
 <br />
 <br />
@@ -70,7 +70,7 @@ const aliHussain = {
 
 <img title="Visual Studio Code" align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img title="Android Studio" align="left" alt="Visual Studio Code" width="26px" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" />
-<img title="Pycharm" align="left" alt="Pycharm" width="26px" src="[https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png](http://assets.stickpng.com/thumbs/58481537cef1014c0b5e4968.png)" />
+
 
 <br />
 <br />
@@ -90,5 +90,4 @@ const aliHussain = {
 </a>
 
 [website]: https://www.google.com/
-[twitter]: https://www.google.com/
 [instagram]: https://www.google.com/
