@@ -81,9 +81,9 @@ const aliHussain = {
 <br />
 <br />
 
-<a href="https://github.com/Shaxadhere">
+<a href="https://github.com/ali2527">
   <img height="180em" style="max-width:45%;" src="https://github-readme-stats.vercel.app/api?username=Shaxadhere&theme=buefy&show_icons=true" />
-  <img height="180em" style="max-width:45%;margin: 0 0 7px 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaxadhere&theme=buefy&layout=compact&hide=html,css,hack,ags%20script" />
+  <img height="180em" style="max-width:45%;margin: 0 0 7px 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali2527&theme=buefy&layout=compact&hide=html,css,hack,ags%20script" />
 </a>
 
 [website]: https://www.google.com/
