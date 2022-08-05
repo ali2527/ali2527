@@ -34,11 +34,10 @@ const aliHussain = {
 
 ---
 ### Connect with me:
-<a title="Github" href="https://github.com/shaxadhere"><img src="https://img.shields.io/github/followers/shaxadhere.svg?label=GitHub&style=social" alt="GitHub"></a>
+<a title="Github" href="https://github.com/ali2527"><img src="https://img.shields.io/github/followers/ali2527.svg?label=GitHub&style=social" alt="GitHub"></a>
 <a title="LinkedIn" href="https://www.linkedin.com/in/shaxadhere/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 
-[<img align="left" alt="Shexadd | Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-[<img align="left" alt="Shexadd | Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
+[<img align="left" alt="AliHussain | Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 <br />
 <br />
 <br />
