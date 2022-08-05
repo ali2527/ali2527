@@ -82,7 +82,7 @@ const aliHussain = {
 <br />
 
 <a href="https://github.com/ali2527">
-  <img height="180em" style="max-width:45%;" src="https://github-readme-stats.vercel.app/api?username=Shaxadhere&theme=buefy&show_icons=true" />
+  <img height="180em" style="max-width:45%;" src="https://github-readme-stats.vercel.app/api?username=ali2527&theme=buefy&show_icons=true" />
   <img height="180em" style="max-width:45%;margin: 0 0 7px 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali2527&theme=buefy&layout=compact&hide=html,css,hack,ags%20script" />
 </a>
 
