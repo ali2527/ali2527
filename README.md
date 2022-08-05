@@ -38,10 +38,7 @@ const aliHussain = {
 <a title="LinkedIn" href="https://www.linkedin.com/in/ali2527/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 
 
-<br />
-<br />
-<br />
-![](https://github.com/egonelbre/gophers/blob/master/.thumb/animation/2bit-sprite/demo.gif)
+
 <br />
 
 ### Languages:
